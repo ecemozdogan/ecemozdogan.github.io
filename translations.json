@@ -1,0 +1,466 @@
+{
+  "page_description": {
+    "en": "Ecem Özdoğan Game Developer Portfolio",
+    "tr": "Ecem Özdoğan Oyun Geliştirici Portfolyo"
+  },
+  "nav_about": {
+    "en": "About",
+    "tr": "Hakkımda"
+  },
+  "nav_education": {
+    "en": "Education",
+    "tr": "Eğitim"
+  },
+  "nav_experience": {
+    "en": "Experience",
+    "tr": "Deneyim"
+  },
+  "nav_portfolio": {
+    "en": "Projects",
+    "tr": "Projeler"
+  },
+  "nav_skills": {
+    "en": "Other Skills",
+    "tr": "Diğer Yetkinlikler"
+  },
+  "about_title": {
+    "en": "About Me",
+    "tr": "Hakkımda"
+  },
+  "about_eyebrow": {
+    "en": "COMPUTER ENGINEER · ANKARA, TÜRKİYE",
+    "tr": "BİLGİSAYAR MÜHENDİSİ · ANKARA, TÜRKİYE"
+  },
+  "about_description_1": {
+    "en": "Game Developer with 1+ year of professional experience and 20+ completed projects.",
+    "tr": "1 yılı aşkın profesyonel deneyime ve 20+ tamamlanmış projeye sahip Oyun Geliştirici."
+  },
+  "about_description_2": {
+    "en": "Experienced in developing mobile and independent games using Unity 3D.",
+    "tr": "Mobil ve bağımsız oyun geliştirme alanında Unity 3D kullanarak projeler geliştirmektedir."
+  },
+  "stats_experience": {
+    "en": "Years experience",
+    "tr": "Yıl deneyim"
+  },
+  "stats_projects": {
+    "en": "Completed projects",
+    "tr": "Tamamlanan proje"
+  },
+  "stats_tech": {
+    "en": "Core technology",
+    "tr": "Ana teknoloji"
+  },
+  "about_tag_coreloopprogramming": {
+    "en": "Core Loop Programming",
+    "tr": "Core Loop Programlama"
+  },
+  "about_tag_gameplaysystems": {
+    "en": "Gameplay Systems",
+    "tr": "Gameplay Sistemleri"
+  },
+  "about_tag_tooldevelopment": {
+    "en": "Tool Development",
+    "tr": "Tool Geliştirme"
+  },
+  "about_tag_performance": {
+    "en": "Performance",
+    "tr": "Performans"
+  },
+  "about_tag_sdkimplementation": {
+    "en": "SDK Implementation",
+    "tr": "SDK İmplementasyonu"
+  },
+  "about_tag_aiutilization": {
+    "en": "AI Prototyping",
+    "tr": "Yapay Zeka Prototipleme"
+  },
+  "contact_download_cv": {
+    "en": "Download CV",
+    "tr": "CV İndir"
+  },
+  "contact_title": {
+    "en": "Contact",
+    "tr": "İletişim"
+  },
+  "contact_location": {
+    "en": "Ankara, Türkiye",
+    "tr": "Ankara, Türkiye"
+  },
+  "education_title": {
+    "en": "Education",
+    "tr": "Eğitim"
+  },
+  "education_institution1": {
+    "en": "Gazi University",
+    "tr": "Gazi Üniversitesi"
+  },
+  "education_degree1": {
+    "en": "Master’s Degree",
+    "tr": "Yüksek Lisans"
+  },
+  "education_major1": {
+    "en": "Game Technologies",
+    "tr": "Oyun Teknolojileri"
+  },
+  "education_institution2": {
+    "en": "TOBB University of Economics and Technology",
+    "tr": "TOBB Ekonomi ve Teknoloji Üniversitesi"
+  },
+  "education_degree2": {
+    "en": "Bachelor’s Degree",
+    "tr": "Lisans"
+  },
+  "education_major2": {
+    "en": "Computer Engineering",
+    "tr": "Bilgisayar Mühendisliği"
+  },
+  "education_institution3": {
+    "en": "Istanbul Topkapı University",
+    "tr": "İstanbul Topkapı Üniversitesi"
+  },
+  "education_degree3": {
+    "en": "Associate Degree",
+    "tr": "Önlisans"
+  },
+  "education_major3": {
+    "en": "Graphic Design",
+    "tr": "Grafik Tasarımı"
+  },
+  "language_title": {
+    "en": "Foreign Languages",
+    "tr": "Yabancı Diller"
+  },
+  "language_skill_english": {
+    "en": "English",
+    "tr": "İngilizce"
+  },
+  "experience_title": {
+    "en": "Work Experience",
+    "tr": "İş Deneyimi"
+  },
+  "job_3dinozgames_date": {
+    "en": "May 2026 - Oct 2026",
+    "tr": "May 2026 - Eki 2026"
+  },
+  "job_3dinozgames_task_1": {
+    "en": "Developed hybrid-casual mobile games in Unity 3D using C#.",
+    "tr": "Unity 3D ve C# kullanılarak hybrid-casual mobil oyunlar geliştirilmiştir."
+  },
+  "job_3dinozgames_task_2": {
+    "en": "Implemented core gameplay mechanics, game loops, level systems, power-ups, obstacle systems, and live-ops features.",
+    "tr": "Temel oynanış mekanikleri, oyun döngüleri, level sistemleri, güçlendiriciler, engel sistemleri ve live-ops özellikleri geliştirilmiştir."
+  },
+  "job_3dinozgames_task_3": {
+    "en": "Developed internal game development tools, including a custom level design editor.",
+    "tr": "Özel bir level tasarım editörü de dahil olmak üzere, oyun geliştirme süreçlerini destekleyen dahili araçlar geliştirilmiştir."
+  },
+  "job_3dinozgames_task_4": {
+    "en": "Shader optimization and mobile performance improvements",
+    "tr": "Shader optimizasyonları ve mobil performans iyileştirmeleri gerçekleştirilmiştir."
+  },
+  "job_3dinozgames_task_5": {
+    "en": "Integrated in-app purchases, AdMob, Facebook SDK, and TikTok SDK.",
+    "tr": "Uygulama içi satın alma, AdMob, Facebook SDK ve TikTok SDK entegrasyonları gerçekleştirilmiştir."
+  },
+  "job_3dinozgames_task_6": {
+    "en": "Managed and implemented live-ops updates and features for existing games.",
+    "tr": "Mevcut oyunlar için live-ops güncellemeleri ve yeni özellikler geliştirilmiş ve uygulanmıştır."
+  },
+  "job_3dinozgames_task_7": {
+    "en": "Utilized Claude and other AI tools to accelerate game feature development.",
+    "tr": "Oyun özelliklerinin geliştirilmesini hızlandırmak için Claude ve diğer yapay zeka araçları kullanılmıştır."
+  },
+  "job_regendream_date": {
+    "en": "Nov 2023 - Jan 2024",
+    "tr": "Kas 2023 - Oca 2024"
+  },
+  "job_regendream_description": {
+    "en": "Developed an XR-supported mobile game for children with autism within a TÜBİTAK-funded project.",
+    "tr": "Tübitak destekli bir proje kapsamında, otizmli çocuklara yönelik XR destekli mobil oyun geliştirmesi yapılmıştır."
+  },
+  "job_creasaur_date": {
+    "en": "Sep 2022 - Dec 2022",
+    "tr": "Eyl 2022 - Ara 2022"
+  },
+  "job_creasaur_title": {
+    "en": "Intern Game Developer",
+    "tr": "Stajyer Game Developer"
+  },
+  "job_creasaur_description": {
+    "en": "Developed hyper-casual games in Unity 3D using C#.",
+    "tr": "Unity 3D ve C# kullanılarak hyper-casual oyunlar geliştirilmiştir."
+  },
+  "job_guris_company": {
+    "en": "GURIS Technology",
+    "tr": "GÜRİŞ Teknoloji"
+  },
+  "job_guris_date": {
+    "en": "Mar 2026 - May 2026",
+    "tr": "Mar 2026 - May 2026"
+  },
+  "job_guris_title": {
+    "en": "Young Talent Intern",
+    "tr": "Genç Yetenek Stajyeri"
+  },
+  "job_guris_description": {
+    "en": "Developed mobile applications using Flutter and Dart. Contributed to the development of a WordPress website.",
+    "tr": "Flutter ve Dart ile mobil geliştirmeler yapılmıştır. Figma ile UI/UX tasarımları yapılmıştır. Wordpress website üzerinde çalışılmıştır."
+  },
+  "job_softtech_date_1": {
+    "en": "Jan 2022 - Apr 2022",
+    "tr": "Oca 2022 - Nis 2022"
+  },
+  "job_softtech_date_2": {
+    "en": "Jun 2021 - Sep 2021",
+    "tr": "Haz 2021 - Eyl 2021"
+  },
+  "job_softtech_title": {
+    "en": "Intern Citizen Developer",
+    "tr": "Stajyer Citizen Developer"
+  },
+  "job_softtech_description": {
+    "en": "Developed frontend interfaces for a stock exchange application. Used TypeScript, Vue.Js, Vuetify within a low-code development environment. Actively worked in an Agile (Scrum) team.",
+    "tr": "Borsa uygulaması için Typescript, Vue.Js, Vuetify kullanılarak frontend üzerinde low-code geliştirmeler yapılmıştır. Agile (Çevik) çalışılmıştır."
+  },
+  "project_title": {
+    "en": "Projects",
+    "tr": "Projeler"
+  },
+  "project_professional": {
+    "en": "Professional",
+    "tr": "Profesyonel"
+  },
+  "project_blastdefence_description": {
+    "en": "A hybrid-casual mobile game combining color-matching puzzles with tower defense.",
+    "tr": "Renk eşleştirme bulmacalarını kule savunmasıyla birleştiren hybrid-casual bir mobil oyun."
+  },
+  "project_blastdefence_bullet1": {
+    "en": "Developed core gameplay mechanics, power up and obstacle systems.",
+    "tr": "Temel oynanış mekaniği, güçlendirme ve engel sistemleri geliştirildi."
+  },
+  "project_blastdefence_bullet2": {
+    "en": "Built a custom level editor for designing regular and boss levels.",
+    "tr": "Normal ve boss seviyelerinin tasarlanması için özel bir level editor geliştirilmiştir."
+  },
+  "project_blastdefence_bullet3": {
+    "en": "Implemented in-app purchase and Firebase integrations.",
+    "tr": "Uygulama içi satın alma ve Firebase entegrasyonları uygulandı."
+  },
+  "project_blastdefence_bullet4": {
+    "en": "Built the menu, profile, leaderboard, battle pass, and in-game store.",
+    "tr": "Menü, profil, liderlik tablosu, battle pass ve oyun içi mağaza sistemleri geliştirildi."
+  },
+  "project_blastdefence_bullet5": {
+    "en": "Added 140 levels, 5 power-ups, and 17 obstacle types.",
+    "tr": "Oyuna 140 seviye, 5 güçlendirme ve 17 engel türü eklendi."
+  },
+  "project_blastdefence_bullet6": {
+    "en": "The game received over 20,000 downloads.",
+    "tr": "Oyun 20.000’den fazla indirildi."
+  },
+  "project_moveitall_description": {
+    "en": "A level-based puzzle game where players organize items into boxes across multiple rooms and chapters.",
+    "tr": "Eşyaları kutulara yerleştirerek odalar ve bölümler boyunca ilerlediğiniz seviye tabanlı bir bulmaca oyunu."
+  },
+  "project_rolltherock_description": {
+    "en": "A level-based idle game centered around moving a rolling ball and reaching the target.",
+    "tr": "Topu ilerleterek hedefe ulaştırmaya dayalı, seviye tabanlı bir idle mobil oyun."
+  },
+  "project_throwcoin3d_description": {
+    "en": "A casual coin-throwing game where players rotate a platform, aim their throws, and combine coins to progress.",
+    "tr": "Oyuncuların platformu döndürerek atışlarını yönlendirdiği ve coinleri birleştirerek ilerlediği casual mobil oyun."
+  },
+  "project_bouncingballs3d_description": {
+    "en": "A clicker game where players merge bouncing balls, earn passive income, and unlock upgrades.",
+    "tr": "Zıplayan topları birleştirip pasif gelir elde ettiğiniz ve yükseltmeler açtığınız bir clicker oyunu."
+  },
+  "project_matchingballs_description": {
+    "en": "A fast-paced runner where players change a two-part ball's size to match colors and avoid obstacles.",
+    "tr": "Renklerden geçmek ve engellerden kaçınmak için iki parçalı topun boyutunu değiştirdiğiniz hızlı tempolu bir runner."
+  },
+  "project_personal": {
+    "en": "Personal",
+    "tr": "Kişisel"
+  },
+  "project_personal_description": {
+    "en": "All games were developed individually.",
+    "tr": "Bütün oyunlar bireysel olarak geliştirilmiştir."
+  },
+  "project_intruder_description": {
+    "en": "A first-person psychological horror game set in a newly occupied house.",
+    "tr": "Yeni taşınılan bir evde geçen birinci şahıs psikolojik gerilim-korku oyunudur."
+  },
+  "project_intruder_bullet1": {
+    "en": "Reached the Top 3 in itch.io’s Most Popular category and received over 16,000 downloads.",
+    "tr": "Itch.io’nun En Popüler kategorisinde ilk 3’e kadar çıktı ve 16.000’den fazla indirme aldı."
+  },
+  "project_intruder_bullet2": {
+    "en": "Played and recorded by hundreds of YouTubers, with some videos shared in the game’s itch.io comments.",
+    "tr": "Yüzlerce YouTuber tarafından oynanıp videoya alındı; bu videoların bazıları oyunun itch.io yorumlarında paylaşıldı."
+  },
+  "project_intruder_bullet3": {
+    "en": "Built as an approximately 10-minute investigation focused on uncovering strange events inside the house.",
+    "tr": "Evde yaşanan tuhaf olayları ortaya çıkarmaya odaklanan yaklaşık 10 dakikalık bir keşif deneyimi olarak tasarlandı."
+  },
+  "project_kralinsifresi_description": {
+    "en": "A puzzle game about connecting regional units to deliver an encrypted message to the castle.",
+    "tr": "Bölgelerdeki birlikleri birbirine bağlayarak şifreli mesajı kaleye ulaştırmaya dayalı bir bulmaca oyunudur."
+  },
+  "project_kralinsifresi_bullet1": {
+    "en": "Developed in 72 hours for Mağara Jam 2025, a competition attended by more than 3,000 developers.",
+    "tr": "3000’den fazla geliştiricinin katıldığı Mağara Jam 2025 yarışması için 72 saatte geliştirildi."
+  },
+  "project_kralinsifresi_bullet2": {
+    "en": "Ranked 3rd among 423 games in the competition.",
+    "tr": "Yarışmada 423 oyun arasından 3. oldu."
+  },
+  "project_kralinsifresi_bullet3": {
+    "en": "Players connect units across regions to guide the encrypted message to the castle.",
+    "tr": "Oyuncular, şifreli mesajı kaleye ulaştırmak için bölgelerdeki birlikleri birbirine bağlar."
+  },
+  "project_recyclefactorysimulator_description": {
+    "en": "A simulation FPS about managing a recycling factory.",
+    "tr": "Geri dönüşüm fabrikası yönetmeye dayalı bir simülasyon FPS oyunudur."
+  },
+  "project_recyclefactorysimulator_bullet1": {
+    "en": "Currently in development for a planned Steam release, with the entire project produced individually.",
+    "tr": "Geliştirme aşamasındaki projenin Steam’de yayınlanması planlanmakta ve tüm üretim bireysel olarak yapılmaktadır."
+  },
+  "project_recyclefactorysimulator_bullet2": {
+    "en": "Individually handled the modeling, visual design, and programming throughout development.",
+    "tr": "Geliştirme sürecindeki modelleme, görsel tasarım ve programlamanın tamamı bireysel olarak yürütülmektedir."
+  },
+  "project_recyclefactorysimulator_bullet3": {
+    "en": "Players purchase waste and materials, process them into goods, and manage production to earn profit.",
+    "tr": "Oyuncular çöp ve malzeme satın alır, bunları ürünlere dönüştürür ve kâr elde etmek için üretimi yönetir."
+  },
+  "project_yenidenbasla_description": {
+    "en": "A game about guiding an ice cube through invisible levels by revealing paths with water traces.",
+    "tr": "Su izleriyle yolları görünür hâle getirerek bir buz küpünü görünmez seviyelerde yönlendirme oyunudur."
+  },
+  "project_yenidenbasla_bullet1": {
+    "en": "Developed in 48 hours for Ayaz Jam, organized by Gazi University.",
+    "tr": "Gazi Üniversitesi tarafından düzenlenen Ayaz Jam için 48 saatte geliştirildi."
+  },
+  "project_yenidenbasla_bullet2": {
+    "en": "Ranked 3rd in the competition.",
+    "tr": "Yarışmada 3. oldu."
+  },
+  "project_yenidenbasla_bullet3": {
+    "en": "The ice cube leaves water traces across floors and walls, allowing players to reveal and navigate hidden routes.",
+    "tr": "Buz küpü yerde ve duvarlarda su izleri bırakır; oyuncular bu izlerle gizli rotaları ortaya çıkarıp takip eder."
+  },
+  "project_yolunuaydinlat_description": {
+    "en": "A puzzle game about positioning shadows as platforms to help a rabbit reach a carrot.",
+    "tr": "Gölgeleri platform olarak konumlandırıp bir tavşanın havuca ulaşmasına yardım etmeye dayalı bir bulmaca oyunudur."
+  },
+  "project_yolunuaydinlat_bullet1": {
+    "en": "Developed in 48 hours for TEDUJAM’25, organized by TED University.",
+    "tr": "TED Üniversitesi tarafından düzenlenen TEDUJAM’25 için 48 saatte geliştirildi."
+  },
+  "project_yolunuaydinlat_bullet2": {
+    "en": "Ranked 4th in the competition.",
+    "tr": "Yarışmada 4. oldu."
+  },
+  "project_yolunuaydinlat_bullet3": {
+    "en": "Players move light sources to position shadows and use their projections as platforms for the rabbit.",
+    "tr": "Oyuncular ışık kaynaklarını hareket ettirerek gölgeleri konumlandırır ve yansımalarını tavşan için platform olarak kullanır."
+  },
+  "project_reflexbullet_description": {
+    "en": "Published on Google Play Store. The player clears levels by aiming their weapon at enemies.",
+    "tr": "Google Play Store’da yayınlanmaktadır. Oyuncu, silahı düşmanlara doğrultarak bölümleri geçmeye çalışır."
+  },
+  "project_spiralracer_description": {
+    "en": "Published on Google Play Store. The player tries to reach the finish line by navigating through a spiral-shaped track.",
+    "tr": "Google Play Store’da yayınlanmaktadır. Oyuncu, spiral şeklinde bir yoldan geçerek bitiş çizgisine varmaya çalışır."
+  },
+  "project_marblebounce_description": {
+    "en": "Published on Google Play Store. The player earns points by bouncing the ball off stones and can unlock new balls and stones with the points earned.",
+    "tr": "Google Play Store’da yayınlanmaktadır. Oyuncu, topu taşlara çarptırarak puan kazanır. Kazandığı puanlarla yeni toplar ve taşlar açabilir."
+  },
+  "project_giftrun_description": {
+    "en": "A mobile runner where players dodge obstacles and go as far as they can.",
+    "tr": "Engellerden kaçıp olabildiğince uzağa gittiğiniz bir mobil runner."
+  },
+  "project_dimensionup_description": {
+    "en": "Developed for GMTK Game Jam 2024 with the theme “Built to Scale”. The player switches between 2D and 3D throughout the game, changing object sizes to progress through the levels.",
+    "tr": "GMTK Game Jam 2024 için “Built to Scale” temasıyla geliştirilmiştir. Oyuncu oyun boyunca 2D ve 3D arasında geçiş yaparak objelerin boyutlarını değiştirir ve bölümlerde ilerler."
+  },
+  "project_c4m_description": {
+    "en": "Developed in 48 hours for Mağara Game Jam 2023. Selected among the Top 50 out of 403 games. Within the theme “Mysterious Machine”, the player uses a camera to view another dimension and tries to complete the game by moving through rooms.",
+    "tr": "Mağara Game Jam 2023 için 48 saatte geliştirilmiştir. 403 oyun arasından ilk 50’ye seçilmiştir. “Gizemli Makine” teması kapsamında, oyuncu, bir kamera kullanarak başka bir boyutu görüntüler ve odalardan geçerek oyunu tamamlamaya çalışır."
+  },
+  "project_instructionset_description": {
+    "en": "Developed for GMTK Game Jam 2025 with the theme “Loop”. The player attempts to reach the target by executing a looped set of keyboard commands.",
+    "tr": "GMTK Game Jam 2025 için “Loop” temasıyla geliştirilmiştir. Oyuncu, klavyeden girdiği komut kümesini bir döngüde oynatarak hedef noktasına ulaşmaya çalışır."
+  },
+  "project_nomoresun_description": {
+    "en": "Developed in 72 hours for GOAT Jam 2, organized by Istanbul Aydın University. Explore the path in a world without the sun by scanning your surroundings. Reach the light to complete the levels.",
+    "tr": "İstanbul Aydın Üniversitesi tarafından düzenlenen GOAT Jam 2 için 72 saatte geliştirilmiştir. Güneş’in olmadığı bir dünyada, etrafınızı tarayarak yolu keşfedin. Işığa ulaşarak seviyeleri tamamlayın."
+  },
+  "project_robotarena_description": {
+    "en": "Developed for Rhythm Jam 2024. Shoot automatically in rhythm and destroy robots. Survive until the music ends to win the game.",
+    "tr": "Rhythm Jam 2024 için geliştirilmiştir. Ritim ile otomatik olarak ateş et ve robotları vur. Müzik bitene kadar hayatta kal ve oyunu kazan."
+  },
+  "project_youaretheainow_description": {
+    "en": "Developed in 48 hours for GMTK Game Jam 2023. The player tries to survive by solving captchas for an artificial intelligence.",
+    "tr": "GMTK Game Jam 2023 için 48 saatte geliştirilmiştir. Oyuncu, yapay zeka için captchaları çözerek hayatta kalmaya çalışır."
+  },
+  "project_keepsailing_description": {
+    "en": "Developed in 72 hours for Ludum Dare 54. The player tries to survive by making the right decisions.",
+    "tr": "Ludum Dare 54 için 72 saatte geliştirilmiştir. Oyuncu doğru seçimler yaparak hayatta kalmaya çalışır."
+  },
+  "project_nanobot_description": {
+    "en": "Developed for Hacettepe Game Jam 2023 with the theme “Futurism”. The player controls a robot and directs good and bad bots by rotating an arm, trying to guide them to the correct locations.",
+    "tr": "Hacettepe Game Jam 2023 için geliştirilmiştir. “Fütürizm” teması kapsamında oyuncu bir robotu kontrol eder. İyi ve kötü botları, kolu çevirerek yönlendirir ve doğru yerlere ulaştırmaya çalışır."
+  },
+  "project_tag_horror": {
+    "en": "Horror",
+    "tr": "Korku"
+  },
+  "project_tag_fps": {
+    "en": "FPS",
+    "tr": "FPS"
+  },
+  "project_tag_puzzle": {
+    "en": "Puzzle",
+    "tr": "Bulmaca"
+  },
+  "project_tag_action": {
+    "en": "Action",
+    "tr": "Aksiyon"
+  },
+  "project_tag_simulation": {
+    "en": "Simulation",
+    "tr": "Simülasyon"
+  },
+  "project_tag_runner": {
+    "en": "Runner",
+    "tr": "Runner"
+  },
+  "project_tag_idle": {
+    "en": "Idle",
+    "tr": "Idle"
+  },
+  "project_tag_gamejam": {
+    "en": "Game Jam",
+    "tr": "Game Jam"
+  },
+  "project_tag_mobile": {
+    "en": "Mobile",
+    "tr": "Mobil"
+  },
+  "project_tag_pc": {
+    "en": "PC",
+    "tr": "PC"
+  },
+  "project_tag_webgl": {
+    "en": "WebGL",
+    "tr": "WebGL"
+  },
+  "skills_title": {
+    "en": "Other Skills",
+    "tr": "Diğer Yetkinlikler"
+  }
+}
