@@ -375,29 +375,3 @@ window.addEventListener('resize', () => {
 });
 
 updateExperienceButtons();
-
-const scrollRevealTargets = document.querySelectorAll(
-  '.site-header, .about-profile, .about-left-panel, .about-contact, #education > .container > h2, #education .timeline-item, #education .education-extra, .experience-section-header, .experience-slider-wrapper, #portfolio > .container > .section-header, .portfolio-group > .group-header, .portfolio-group .project-card'
-);
-
-if ('IntersectionObserver' in window) {
-  const revealGroupCounts = new Map();
-  const scrollRevealObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach((entry) => {
-      if (!entry.isIntersecting) return;
-      entry.target.classList.add('is-revealed');
-      observer.unobserve(entry.target);
-    });
-  }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
-
-  scrollRevealTargets.forEach((target) => {
-    const group = target.closest('.timeline, .projects-grid, .project-small-grid') || target.parentElement;
-    const groupIndex = revealGroupCounts.get(group) || 0;
-    revealGroupCounts.set(group, groupIndex + 1);
-    target.style.setProperty('--reveal-delay', `${Math.min(groupIndex, 4) * 70}ms`);
-    scrollRevealObserver.observe(target);
-  });
-
-} else {
-  scrollRevealTargets.forEach((target) => target.classList.add('is-revealed'));
-}

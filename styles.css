@@ -1988,75 +1988,7 @@ a {
   color: var(--palette-text-secondary);
 }
 
-html.scroll-reveal-ready :is(
-  .site-header,
-  .about-profile,
-  .about-left-panel,
-  .about-contact,
-  #education > .container > h2,
-  #education .timeline-item,
-  #education .education-extra,
-  .experience-section-header,
-  .experience-slider-wrapper,
-  #portfolio > .container > .section-header,
-  .portfolio-group > .group-header,
-  .portfolio-group .project-card
-) {
-  opacity: 0;
-  transform: translateY(22px) scale(0.99);
-  transition: opacity 650ms cubic-bezier(0.2, 0.7, 0.2, 1) var(--reveal-delay, 0ms),
-    transform 650ms cubic-bezier(0.2, 0.7, 0.2, 1) var(--reveal-delay, 0ms);
-  will-change: opacity, transform;
-}
-
-html.scroll-reveal-ready :is(
-  .site-header,
-  .about-profile,
-  .about-left-panel,
-  .about-contact,
-  #education > .container > h2,
-  #education .timeline-item,
-  #education .education-extra,
-  .experience-section-header,
-  .experience-slider-wrapper,
-  #portfolio > .container > .section-header,
-  .portfolio-group > .group-header,
-  .portfolio-group .project-card
-).is-revealed {
-  opacity: 1;
-  transform: translateY(0) scale(1);
-  will-change: auto;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  html.scroll-reveal-ready :is(
-    .site-header,
-    .about-profile,
-    .about-left-panel,
-    .about-contact,
-    #education > .container > h2,
-    #education .timeline-item,
-    #education .education-extra,
-    .experience-section-header,
-    .experience-slider-wrapper,
-    #portfolio > .container > .section-header,
-    .portfolio-group > .group-header,
-    .portfolio-group .project-card
-  ) {
-    opacity: 1;
-    transform: none;
-    transition: none;
-    will-change: auto;
-  }
-}
-
 @media (max-width: 900px) {
-
-  html.scroll-reveal-ready .site-header {
-    opacity: 1;
-    transform: none;
-    transition: none;
-  }
 
   .hero-grid,
   .section-grid,
